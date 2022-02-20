@@ -1,0 +1,9 @@
+commands React project
+
+- yarn create react-app [nome Project] --template typescript
+
+- yarn add styled-components -D // css em js
+
+- yarn add @types/styled-components -D
+
+- 
