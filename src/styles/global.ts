@@ -48,4 +48,4 @@ button {
     opacity: 8.6;
     cursor: not-allowed;
 }
-`
+`;
