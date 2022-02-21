@@ -6,4 +6,12 @@ commands React project
 
 - yarn add @types/styled-components -D
 
-token github: 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
+token github: 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:trash
+
+- yarn add miragejs
+
+- yarn add axios
+
+- yarn add react-modal //criar o modal
+-yarn add @types/react-modal -D
+- yarn add polished
