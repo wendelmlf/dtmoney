@@ -6,4 +6,4 @@ commands React project
 
 - yarn add @types/styled-components -D
 
-- 
+token github: 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
